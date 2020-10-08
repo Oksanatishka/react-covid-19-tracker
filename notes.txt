@@ -1,0 +1,42 @@
+https://disease.sh/ - Open Desease Data
+
+1. Create Wireframe
+    draw.io -> https://app.diagrams.net/
+2. Create React App
+    Download nodejs
+    > npm i -g npx
+    > npx create-react-app covid-19-tracker
+    > cd covid-19-tracker
+    > npm start
+3. Cleanup Project
+4. Structure of COVID Tracker
+    Header
+    Title + Select input dropdown field
+    Infoboxs
+    Infoboxs
+    Infoboxs
+    Table
+    Graph
+    Map
+5. Create Header
+    Dropdown:
+        import { MenuItem, FormControl, Select, Card, CardContent } from "@material-ui/core";
+        <FormControl/> from Material UI
+6. Create Info Boxes
+7. Create Table
+8. Create Chart
+        react-chartjs-2 https://github.com/jerairrest/react-chartjs-2
+        https://www.chartjs.org/ 
+        > npm i react-chartjs-2 chart.js
+        > npm i numeral
+9. Create Map
+        > npm i leaflet         // ?? 
+        > npm i react-leaflet   // JS library for mobile-friendly interactive maps https://www.npmjs.com/package/leaflet
+
+10. Styling
+11. Deploy
+
+
+in BEM:
+    -- modification
+    __ element
